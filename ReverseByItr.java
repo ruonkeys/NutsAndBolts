@@ -6,6 +6,9 @@ import java.util.Scanner;
 
 //link is https://youtu.be/sYcOK51hl-A
 
+//time complexity O(n)
+//space complexity O(1)
+
 public class ReverseByItr {
 	class Node
 	{

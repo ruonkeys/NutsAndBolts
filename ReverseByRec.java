@@ -5,6 +5,9 @@ package dev;
 
 //link is https://youtu.be/KYH83T4q6Vs
 
+//time complexity O(n)
+//space complexity O(n)
+
 public class ReverseByRec {
 	class Node
 	{
