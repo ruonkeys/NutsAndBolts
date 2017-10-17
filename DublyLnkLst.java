@@ -1,4 +1,4 @@
-package dev;
+package nuts.NutsAndBolts;
 
 //Doubly linked list implementation, insertAtBegin, insertAtEnd, print, reverse print
 

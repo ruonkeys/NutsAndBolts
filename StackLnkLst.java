@@ -1,4 +1,4 @@
-package dev;
+package nuts.NutsAndBolts;
 
 public class StackLnkLst {
 	class Node

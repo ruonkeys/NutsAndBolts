@@ -1,4 +1,4 @@
-package dev;
+package nuts.NutsAndBolts;
 
 //Linked list implementation, reversing linked list using recursion
 //remember here we are actually reversing the links instead of only printing it reverse order as we did in previous section

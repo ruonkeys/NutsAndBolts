@@ -1,4 +1,4 @@
-package dev;
+package nuts.NutsAndBolts;
 
 import java.util.Scanner;
 
@@ -32,5 +32,6 @@ public class Test {
 		System.out.println("ele: "+arr[2]);
 		System.out.println("ele: "+arr[3]);
 		System.out.println("ele: "+arr[4]);
+		System.out.println("End of code");
 	}
 }

@@ -1,4 +1,4 @@
-package dev;
+package nuts.NutsAndBolts;
 
 import java.util.Scanner;
 
