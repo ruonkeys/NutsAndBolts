@@ -40,7 +40,7 @@ public class ReverseByRec {
 	{
 		if(p.next == null) //exit condition, remember here we don't wanna go beyond last element
 		{
-			this.start = p; //just for visual purpose
+			this.start = p; //using this just for visual purpose
 			return;
 		}
 		reverse(p.next);
