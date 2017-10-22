@@ -35,7 +35,7 @@ public class QueueArr {
 		}
 		else
 		{
-			rear = (rear + 1)%MAX;
+			rear = (rear + 1)%MAX;//circular increment
 		}
 		arr[rear] = num;
 	}
@@ -54,7 +54,7 @@ public class QueueArr {
 	{
 		if(isEmpty())
 		{
-			System.err.println("Queue empty, can't perform dequeue");
+			System.err.println("Queue empty");
 			return -1;
 		}
 		return arr[front];
@@ -106,8 +106,10 @@ public class QueueArr {
 		else
 		{
 			System.err.println("Wrong input program about to end");
+			sc.close();
 			return;
 		}
+		sc.close();
 		obj.enqueue(1);
 		obj.enqueue(2);
 		obj.enqueue(3);
