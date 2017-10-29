@@ -1,5 +1,9 @@
 package nuts.NutsAndBolts;
 
+//linked list implementation of queue, remember that all the operations of queue like enque, dequeue, etc must have O(1) complexity
+
+//link is: https://youtu.be/A5_XdiK4J8A?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P
+
 public class QueueLnkLst {
 	class Node
 	{
